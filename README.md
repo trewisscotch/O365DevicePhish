@@ -33,4 +33,3 @@ $ python3 devicePhish.py
 
 ## Credits & References
 * [Introducing a new phishing technique for compromising Office 365 accounts](https://o365blog.com/post/phishing/)
-* [TokenTactics](https://github.com/rvrsh3ll/TokenTactics)
